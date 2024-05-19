@@ -1,0 +1,10 @@
+body{
+    background-color:rgb(10, 120, 216);
+    font-style: italic;
+    font-family: 'Courier New', Courier, monospace;
+    color:rgb(250, 251, 250);
+}
+.heading{
+    color:rgb(216, 176, 30);
+    font-weight: 900;
+}
